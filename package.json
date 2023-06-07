@@ -14,7 +14,8 @@
     "@stencil/core": "3.3.x",
     "@types/jest": "29.5.x",
     "jest": "29.5.x",
-    "jest-cli": "29.5.x"
+    "jest-cli": "29.5.x",
+    "typescript": "5.1.x"
   },
   "license": "MIT"
 }
