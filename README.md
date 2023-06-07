@@ -1,1 +1,0 @@
-# stencil-jest-test

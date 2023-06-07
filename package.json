@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Stencil App Starter",
+  "scripts": {
+    "build": "stencil build",
+    "start": "stencil build --dev --watch --serve",
+    "test": "stencil test --spec --coverage --local --no-cache",
+    "test.watch": "stencil test --spec --watchAll",
+    "generate": "stencil generate"
+  },
+  "devDependencies": {
+    "@stencil/core": "3.3.x",
+    "@types/jest": "29.5.x",
+    "jest": "29.5.x",
+    "jest-cli": "29.5.x"
+  },
+  "license": "MIT"
+}
